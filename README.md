@@ -1,6 +1,6 @@
-Employment Management System (EMS)
+##Employment Management System (EMS)
 
-Full-Stack Web Application |React, Spring Boot, SQL
+**Full-Stack Web Application |React, Spring Boot, SQL**
 
 -Developed a full-stack web application using React for the frontend and Spring Boot for the backend.
 -Designed and implemented RESTful APIs to manage employees, roles, and employment records.
